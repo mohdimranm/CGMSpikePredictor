@@ -269,3 +269,4 @@ python scripts/train_model.py
 ## 📄 License
 
 Educational project for technical assessment.
+# CGMSpikePredictor
