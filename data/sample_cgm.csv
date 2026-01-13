@@ -1,0 +1,5 @@
+user_id,timestamp,glucose,carbs,meal_type
+USR_001,2023-10-01T08:00:00,95,0,N/A
+USR_001,2023-10-01T08:15:00,98,45,Breakfast (Oats)
+USR_001,2023-10-01T08:30:00,115,0,N/A
+USR_001,2023-10-01T08:45:00,140,0,N/A
